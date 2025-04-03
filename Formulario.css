@@ -1,0 +1,28 @@
+h1{
+    display: flex;
+    justify-content: space-around;
+    background-color: pink;
+    color: rgb(241, 8, 86);
+}
+
+body{
+    background-color: rgb(235, 211, 215);
+}
+
+.caja{
+    width: 400px;
+    background-image: url(Pink.jpg);
+    border: 1px;
+}
+body{
+    color: rgb(7, 13, 19);
+    background-image: url(
+        Pink.jpg
+    );
+}
+
+.caja{
+    width: 400px;
+    background-image: url(Pink.jpg);
+    border: 1px;
+}

@@ -1,0 +1,28 @@
+h1{
+    display: flex;
+    justify-content: space-around;
+    background: rgb(118, 186, 224);
+    color: rgb(34, 34, 36);
+    
+}
+
+div{
+    display: flex;
+    justify-content: space-around;
+}
+ nav{
+     text-decoration: wavy;
+    padding: 50px;
+    justify-content: space-around;
+    background: rgb(219, 164, 164);
+    margin-inline: 40px;
+ }
+
+ .nav-var{
+    display: flex;
+    justify-content: space-around;
+ }
+
+
+ 
+   

@@ -1,0 +1,17 @@
+h1{
+
+background-color: grey;
+color: red;
+margin: 10px;
+padding: 20px;
+display: inline-block;
+
+}
+
+a{
+    background-color: rgb(247, 104, 123);
+    color: rgba(11, 13, 133, 0.815);
+    margin: 10px;
+    padding: 20px;
+display: inline-flex;
+}
