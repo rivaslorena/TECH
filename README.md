@@ -1,0 +1,2 @@
+# TECH
+Primer repositorio 
